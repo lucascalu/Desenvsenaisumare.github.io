@@ -4,4 +4,4 @@
 teste2
 
 
-![This is an image](./IMG/a.png)
+![This is an image](./IMG/a.PNG)
